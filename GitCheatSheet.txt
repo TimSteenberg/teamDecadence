@@ -1,0 +1,3 @@
+
+diff - shows changes that have been made
+add - stages a file by adding to repository
